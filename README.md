@@ -1,66 +1,25 @@
-# abduljames23
-# Hello Informatics !
+# Fadhillah
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
-
-Computational Thinking (CT) adalah suatu pendekatan pemikiran yang melibatkan pemecahan masalah dengan menggunakan konsep dan metode yang umumnya terkait dengan komputasi. Hal ini mencakup serangkaian keterampilan dan strategi berpikir yang dapat diterapkan dalam menyelesaikan masalah, baik dalam konteks komputasi maupun di luar itu. Dengan kata lain, CT membantu seseorang untuk berpikir secara sistematis, logis, dan kreatif.
-
-Berikut adalah beberapa aspek utama dari Computational Thinking:
-
-1. **Decomposition (Pemecahan Masalah):** Kemampuan untuk memecah masalah kompleks menjadi bagian-bagian yang lebih kecil dan lebih mudah dikelola. Ini membantu dalam mengidentifikasi elemen-elemen esensial dari suatu masalah.
-
-2. **Pattern Recognition (Pengenalan Pola):** Mampu mengidentifikasi pola atau tren dalam data. Ini membantu dalam menentukan hubungan antara berbagai elemen masalah dan menemukan solusi yang mungkin.
-
-3. **Abstraction (Abstraksi):** Kemampuan untuk mengambil informasi esensial dan mengabaikan detail yang tidak relevan. Ini membantu dalam menyederhanakan masalah dan fokus pada inti permasalahan.
-
-4. **Algorithmic Thinking (Berpikir Algoritmik):** Mampu merancang langkah-langkah langkah demi langkah untuk menyelesaikan masalah. Ini melibatkan pembuatan algoritma atau urutan instruksi yang logis.
-
-5. **Generalization (Generalisasi):** Mampu mengidentifikasi konsep umum dari situasi tertentu dan menerapkannya pada situasi serupa. Ini membantu dalam membuat aturan umum yang dapat diterapkan secara luas.
-
-Menginternalisasi Computational Thinking melibatkan proses membuat pemikiran ini menjadi bagian integral dari cara seseorang berpikir dan menyelesaikan masalah sehari-hari, bukan hanya ketika berurusan dengan masalah komputasi. Ini melibatkan penggunaan CT dalam berbagai konteks dan memahami bagaimana konsep ini dapat diterapkan secara luas.
-
-Beberapa langkah untuk menginternalisasi Computational Thinking melibatkan:
-
-1. **Penerapan Prinsip-prinsip CT dalam Kegiatan Sehari-hari:** Menggunakan konsep CT saat menghadapi masalah sehari-hari, baik itu terkait dengan teknologi atau tidak.
-
-2. **Partisipasi dalam Proyek Komputasi:** Terlibat dalam proyek-proyek komputasi atau pemrograman untuk mengaplikasikan dan memperdalam pemahaman tentang CT.
-
-3. **Pembelajaran Terus-menerus:** Aktif mencari dan memahami bagaimana CT dapat diterapkan dalam berbagai konteks, serta memperbarui pengetahuan tentang perkembangan terkini dalam bidang ini.
-
-4. **Kolaborasi dengan Orang Lain:** Berpartisipasi dalam kegiatan kolaboratif di mana pemikiran komputasional dapat dipertukarkan dan diterapkan dalam kelompok.
-
-Dengan menginternalisasi Computational Thinking, seseorang dapat mengembangkan keterampilan berpikir kritis, analitis, dan kreatif yang dapat diterapkan dalam berbagai aspek kehidupan, baik yang terkait dengan komputasi maupun tidak.
+ cara berpikir how to solve problem, lalu cara menginternalisasikannya yaitu pertama dengan memahami masalahnya, lalu dikumpulkan datanya, setelah itu dicari solusinya
 
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
-Komputasi merupakan ilmu yang berkaitan dengan penyelesaian numerik, permodelan matematika, dan komputer. Mari kita jelajahi lebih lanjut:
-
-Personal Computer (PC): Komputer ini digunakan secara pribadi. Biasanya ada di rumah, toko, atau kantor. Fungsinya meliputi pengelolaan data input-output sederhana dan sering digunakan sebagai mesin kasir.
-
-Komputer Server: Dirancang khusus untuk memberikan layanan pada perangkat lain melalui jaringan internet. Memiliki prosesor kuat dan mengatur hak akses di dalam jaringan. Banyak digunakan untuk pembagian data berbasis internet atau tempat berkumpulnya pemain game online.
-
-Komputer Desktop: Didesain untuk kebutuhan rumah dan kantor. Terdiri dari CPU, monitor, dan keyboard terpisah. Cocok untuk penggunaan pribadi dalam pekerjaan dan pengelolaan data.
-
-Komputer Hybrid: Kombinasi dari komputer analog dan digital. Digunakan dalam aplikasi khusus yang memerlukan kecepatan tinggi dan akurasi.
-
-Superkomputer: Komputer dengan daya komputasi luar biasa tinggi. Digunakan untuk perhitungan kompleks seperti simulasi cuaca, riset ilmiah, dan analisis data besar.
-
-Komputer Mainframe: Dulu digunakan untuk mengendalikan sistem besar seperti perbankan dan penerbangan. Kini lebih jarang, tetapi masih digunakan di beberapa industri.
-
-Semua jenis komputer ini memiliki peran dan fungsinya masing-masing. Komputasi adalah fondasi dunia digital yang memungkinkan kita melakukan berbagai tugas dengan efektif dan efisien.
+- laptop = seperti komputer, namun secara portabel bisa dibawa kemana-kemana
+- komputer = mesin komputasi yang terdiri dari CPU,monitor,keyboard, dan mouse
+- smartwatch = perangkat komputer dalam bentuk jam tangann
+- AC = system yang berfungsi untuk menaikan atau menurunkan suhu udara
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
-sebelumnya Google Colab atau Google Colaboratory adalah sebuah dokumen yang dapat dieksekusi yang digunakan untuk menyimpan, menulis, dan membagikan program melalui Google Drive.
-dan saya pun telah mengaktifkan dan mencoba google colab tersebut di kelas bersama pa insan dan teman teman saya di situ juga saya di suruh untuk membuat code yang bisa menghasilkan suara dan inilah tampilanya.
 
-![AI ipynb - Colaboratory dan 1 halaman lainnya - Pribadi 3 - Microsoft​ Edge 26_12_2023 13_07_20](https://github.com/abduljames123/abduljames23/assets/144786396/fa69c97e-2c66-4498-b9a7-e3373a2e9e17)
 
 
 ## Mencoba Console Sistem Operasi
 
 ### Windows CMD [v] ⭐⭐⭐⭐
-Berikut adalah beberapa perintah dasar yang sering digunakan di Command Prompt (CMD) pada sistem operasi Windows:
+fitur cmd merupakan fitur untuk mengelola system operasi yang ada di windows, dibawah ini terkait jika menulis kalimat perintah maka akan memunculkan beragam fiturnya apa saja 
+
 
 1. dir: Menampilkan daftar file dan folder dalam direktori saat ini.
 2. cd: Pindah ke direktori lain.
@@ -75,19 +34,24 @@ Berikut adalah beberapa perintah dasar yang sering digunakan di Command Prompt (
 11. help: Menampilkan bantuan untuk perintah tertentu.
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
+
+<img width="350" alt="image" src=https://github.com/Fadhillahrizqia/Uas-Fadhillah/assets/144824636/48c0c465-6840-4885-b61d-d823b05644d3)>
+
+
+
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐.
 
-![image](https://github.com/abduljames123/abduljames23/assets/144786396/6faf1bec-d326-49d2-ab07-db849df49314)
 
-Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
+```mermaid
+flowchart TD
+    id1[(Mulai)] <--> id2[Untuk jalan tekan Up, Down, Right, Left ] <--> id3[Mulai Memakan buah untuk menang ] <--> id4[Hindari ghost sebisa mungkin/kalah] <--> id5[jika berhasil game menang] 
+```
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
-kali ini saya telah mencoba scratch dalam bahasa indonesia scratch adalah Scratch adalah bahasa pemrograman berbasis visual yang dirancang khusus untuk anak-anak dan pemula. Dengan Scratch, pengguna dapat membuat animasi, permainan, dan interaksi multimedia lainnya dengan mudah tanpa harus menguasai bahasa pemrograman yang kompleks. Scratch memudahkan programmer dalam membuat program tanpa perlu khawatir dengan penulisan sintaksis. dan ini hasil project saya https://scratch.mit.edu/projects/937906877
-
-Referensi [1](https://scratch.mit.edu/)
+scratch yaitu sebuah program yang mana kita bisa memvisualisasikan gambaran yang kita inginkan tanpa mesti khawatir masalah syntax code
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 setelah mempelajari bubble short dengan java dapatlah contohnya:
@@ -125,28 +89,17 @@ int[] bilangan = {5, 12, 3, 19, 1, 47};
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
-setelah saya mengeksplor apa itu IDE,IDE adalah kunci dalam mengembangkan perangkat lunak. Berikut adalah beberapa langkah untuk memulai,dan sesuai dengan bahasa yang saya pelajari saat ini yaitu pelajaran bahasa java saya memilih IDE yaitu:Visual Studio Code (VS Code)dikarenakan Ringan, banyak ekstensi, dan cocok untuk berbagai bahasa pemrograman.dan apa itu Visual Studio Code (VS Code),Visual Studio Code (VS Code)adalah:editor kode sumber yang dikembangkan oleh Microsoft. Perangkat lunak ini gratis dan open-source, dirancang untuk membantu para pengembang dalam menulis dan mengedit kode dengan berbagai bahasa pemrograman.
-
+IDE yaitu perangkat lunak yang membantu kita dalam membuat suatu program, dan saya menggunakan Visual Studio Code
 
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 
-saya telah mendaftar dan megkeksplor hackerRank dan telah membuat akun saya yaitu: https://www.hackerrank.com/profile/abdullatifdzuhri
-dan adapun kegunaan aplikasi hackerRank tersebut adalah :platform yang sangat berguna bagi para pengembang dan calon pengembang perangkat lunak.
-dan adpun manfaatnya di antara lain:
-
-1.Mengasah Kemampuan Programming.
-
-2.Mengasah Kemampuan Programming.
-
-3.Mengasah Kemampuan Programming.
-
-4.Juri Online.
-
-Jadi, jika Anda ingin mengasah kemampuan pemrograman atau memperdalam pengetahuan dalam berbagai bidang teknologi, HackerRank adalah tempat yang tepat,apalagi bagi kita mahasiswa tekhnik informatika pasti sangat membantu.
+saya sudah mendaftar login hackerrank account saya : @fadhillahrizqia1
+dan dari hackerrank saya mencoba untuk menyelesaikan suatu problem, walaupun saya masih belum mahir terutama pemahaman saya terkait bahasa inggris yang membuat masih kesulitan dalam mendemonstrasikannya
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
-
+ untuk pembuatan game saya membuat game pacman 
+ link : https://youtu.be/zpjuXEVMO8U?si=zLavw22PuY4Nl61g
 
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
@@ -162,36 +115,23 @@ Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 
-jadi sebelumnya Web browser adalah perangkat lunak aplikasi yang memainkan peran penting dalam mengakses dan menampilkan halaman web.
-Dan adapun untuk kegunaan Web Browser terkhusus untuk mengakses halaman website HTMLO adalah:
+yang pertama membuka browser seperti menggunakan goggle chrome atau microsoft edge
+lalu mengetik laman url yang ingin kita cari, setelah itu menekan enter untuk menuju lama yang kita cari
 
-1.Menerima Permintaan Akses jadi ketika kita memasukkan alamat website si Web Browser akan menerima permintaan akses anda,kemudian Permintaan ini kemudian diteruskan oleh browser ke DNS server untuk mengambil data terkait halaman yang ingin Anda akses.
-
-2.Menampilkan Konten Website jadi Web browser tidak hanya membuka halaman web, tetapi juga menampilkan konten yang dimuat oleh website.dan Kode HTML yang ada pada halaman web akan diterjemahkan oleh web browser sehingga tampil sesuai dengan desain yang dirancang.
-
-3.Standar dan Perbedaan Antar Browser.
-Jadi, web browser adalah alat utama yang digunakan untuk mengakses halaman web dan menampilkan konten yang ada di dalamnya.
-
-
-- Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
-- Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
-- Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
 
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
+URL adalah singkatan dari Uniform Resource Locator yang merupakan rangkaian karakter yang terdiri dari format dengan standar tertentu. URL berfungsi sebagai penunjuk alamat dari sebuah sumber daya di internet, baik berupa file teks, gambar, dokumen, dan lainnya.
 
-URL atau Uniform Resource Locator adalah alamat web yang mengarah ke website, halaman web, atau dokumen tertentu di internet. URL memungkinkan Anda mengakses informasi dari komputer atau lokasi online, seperti web server atau penyimpanan cloud. Nah disini saya mengunakan website https://informatika.digital/ untuk mencari apa saja komponen yang berada di dalam URL link tersebut yaitu:
-
-1.Protokol: Protokol menentukan cara pertukaran atau transfer data melalui jaringan komputer. Pada URL ini, protokol yang digunakan adalah HTTPS.
-
-2.Nama Host Komputer (Hostname): nah di URL ini menunjukkan lokasi server yang menyimpan konten yang ingin Anda akses. Pada URL tersebut, informatika.digital adalah nama host komputer.
-
-3.Ekstensi Domain: Ekstensi domain menunjukkan jenis domain.nah di website ini domainya menggunakan .digital.
-
-jadi demikian saya mendesmontrasikan dan menjelaskan komponen dari URL website https://informatika.digital/
+komponen yang ada pada URL yaitu :
+- Domain = nama dari situs atau yang menunjukkan alamat situs. Domain terdiri dari dua jenis, gratis dan berbayar. Contoh dari domain berbayar adalah .com, .net, .info. Sedangkan yang gratis contohnya adalah blogger.com
+- Protokol = bagian terpenting yang memudahkan pembaca untuk membuka tautan tanpa harus menuliskan ulang pada browser. Protokol biasanya disingkat menjadi http (Hypertext Transfer Protocol).
+- Direktori =  sebuah kategori dalam sebuah website yang biasanya diletakkan di akhir domain. Contoh: https://namadomain.com/ini-url-direktori
+- Nama Host Komputer (WWW) = World Wide Web biasa sebutannya 
 
 
 
-Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
+
+Referensi: https://www.baktikominfo.id/en/informasi/pengetahuan/berkenalan_dengan_url_bagian_penting_untuk_mengakses_internet-689
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 
@@ -203,81 +143,45 @@ Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_doma
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
-saya pun telah mencoba membuat web menggunakan HTML, CSS, dan javascript dan inilah berikut codinganya 
-
- 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Halaman Web Saya</title>
-    <style>
-        body {
-            background-color: #f0f0f0;
-            font-family: Arial, sans-serif;
-        }
-        h1 {
-            color: #333;
-        }
-    </style>
-</head>
-<body>
-    <h1>Selamat datang di Halaman Web Saya!</h1>
-    <button id="clickButton">Klik saya!</button>
-
-    <script>
-        document.getElementById("clickButton").addEventListener("click", function() {
-            alert("Anda telah mengklik tombol!");
-        });
-    </script>
-</body>
-</html>
-
-
-
-Referensi tutorial 
-- Isi konten halaman web : [HTML](https://www.w3schools.com/html/)
-- Styling halaman web : [CSS](https://www.w3schools.com/css/)
-- Interaktivitas halaman web : [JavaScript](https://www.w3schools.com/js/)
+https://github.com/Fadhillahrizqia/Shop/tree/main/Shop (Menyusul untuk sisanya)
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
- setelah saya melakukan penerapan tekhnik SEO pada HTML ada beberapa tekhnik yang dapat dilakukan yaitu:
- Optimasi Judul Halaman (Title Tag),Meta Description,Struktur URL yang SEO-Friendly,Penggunaan Heading (H1, H2, H3, dll.),Optimasi Gambar,Penggunaan Keyword,Kecepatan Situs,DLL.
-
- dan Ingatlah bahwa SEO adalah proses jangka panjang dan membutuhkan waktu untuk melihat hasilnya.
-Referensi []
+penerapan teknik SEO pada HTML ada beberapa teknik yang diterapkan yaitu :
+- Penggunaan Tag Tittle = untuk menuliskan judul laman yang kita inginkan
+- Meta Description = untuk memberikan deskripsi singkat terkait laman yang kita buat
+- Struktur Heading = seperti penggunaan h1,h2,h3,dst untuk membedakan mana judul utama dan sub judul di laman yang kita buat
+- URL = untuk menulis kata kunci laman jika kita ingin mencari di SEO
+- all atribut pada gambar = untuk memunculkan gambar pada laman yang kita buat
+- penggunaan link =  untuk memunculkan elemen atau konten yang sekiranya serupa dengan laman orang lain pada laman kita
+- penggunaan struktur markup schema = untuk memunculkan konten dimana di laman tersebut bisa dilakukan penilaian seperti ulasan pada laman kita atau menggunakan bintang juga bisa 
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 
-sebelumnya JSON (JavaScript Object Notation) adalah format file berbasis teks yang umumnya digunakan dalam proses pertukaran data antara server dan klien.
-dan saya telah membuat contoh file JSON dan adapun contohnya yang ada di bawah ini:
+JSON singkatan dari JavaScript Object Notation yaitu format file berbasis teks yang umumnya digunakan dalam proses pertukaran data antara server dan klien. 
+contoh pembuatan dari JSON :
 
 
 
 {
 
-    "nama" : "Abdul latif dzuhri",
+    "nama" : "Fadhillah Rizqia Arfin",
     
-    "alamat" : "pandana merdeka",
+    "alamat" : "Jln.Jatinegara",
     
-    "umur" : 18,
+    "umur" : 19,
     
-    "no_Hp" : "088983254103",
+    "no_Hp" : "081368830276",
     
-    "email" : "al6759237@gmail.com",
+    "email" : "frazxx2543@gmail.com",
     
-    "hobi" : ["main bola","makan","mendaki gunung"]
+    "hobi" : ["main game","jogging"]
     
 	
     
 }
 
-Dan untuk pengertian struktur data di atas adalah:
 
-1.Objek JSON dimulai dengan tanda kurung kurawal {}.
-2.Setiap elemen dalam objek adalah pasangan kunci (key) dan nilai (value), dipisahkan oleh tanda koma.
-3.Nilai dapat berupa string, angka, objek, atau array.
-jadi JSON sangat berguna dalam pertukaran data antar aplikasi, penyimpanan konfigurasi, dan banyak lagi.
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
