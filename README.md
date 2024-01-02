@@ -212,30 +212,22 @@ jadi saya memilih https://uinsgd.ac.id/ untuk mencari kegunaan Developer Tools P
 
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
+layanan cloud service bisa bermanfaat bagi kita seperti penggunaan untuk menyimpan data seperti contohnya startup ternama seperti GO-JEK menggunakan goggle cloud untuk mempercayakannya dalam segi keamanannya 
 
-
-Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
-
-Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
+[Google Cloud Platform](https://cloud.google.com) 
 
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 
-saya telah mencoba penggunaan content management system(wordpress) jadi kegunaan wordpress yaitu WordPress bisa membantu Anda membuat dan mengelola website tanpa coding. Anda bisa menata tampilan, menambahkan fitur, dan membuat konten di website dengan mudah. Jadi, cocok untuk digunakan pemula sekalipun. dan ini adalah link wordpress saya https://cussdotid.wordpress.com/2023/12/12/sejarah-piala-dunia/
+kegunaan wordpress itu sendiri kita bisa menggunakannya untuk membuat blog seperti artikel, laman, bahkan seperti e-commerce pun bisa dibuat menggunakan wordpress tanpa penulisan syntax code seperti HTML,JAVASCRIPT,DSB 
 
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
-saya mendemostrasikan akses konten multimedia dan saya pun memilih capcut. CAPCUT yang dimana aplikasi tersebut adalah aplikasi pengeditan video yang dikembangkan oleh Bytedance, perusahaan teknologi asal China yang juga mengembangkan aplikasi populer seperti TikTok. CapCut dirancang untuk memudahkan pengguna dalam membuat dan mengedit video dengan berbagai efek, filter, dan fitur kreatif.sehingga banyak manusia atau orang minat menggunakanya.dan saya juga telah banyak atau sudah menggunakan aplikasi tersebut dan ini adalah akun saya di aplikasi capcut(https://mobile.capcutshare.com/s/Zs82p2632/)
+
 
 
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
-
-saya akhirnya mencoba mengedit konten multimedia mengunakan aplikasi CAPCUT dan ini hasilnya 
-
-https://github.com/abduljames123/abduljames23/assets/144786396/0dc09049-34ae-4d24-982f-7cc79fbd3c19
-
-dan itulah hasil saya mengedit di aplikasi CAPCUT.
 
 
 
@@ -290,30 +282,32 @@ Data visualization adalah teknik untuk menggambarkan informasi dan data secara g
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 
-sebelumnya Hugging Face adalah komunitas kecerdasan buatan yang membangun masa depan. Mereka menyediakan platform di mana komunitas machine learning berkolaborasi dalam mengembangkan model, dataset, dan aplikasi. Hugging Face juga dikenal sebagai tempat untuk berbagi pengetahuan dan sumber daya di bidang machine learning. jadi kemudian saya mendaftar dan mengkesplor aplikasi ini untuk bisa membangun masa depan dan menambah wawasan tentang machine learning saya,tidak cuma itu dengan menggunakan huggingface kita juga bisa Membuat, menemukan, dan berkolaborasi pada model, dataset, dan aplikasi,Eksplorasi berbagai modalitas seperti teks, gambar, video, audio, dan bahkan 3D,dan Berbagi pekerjaan Anda dengan dunia dan membangun profil machine learning.jadi sangat berguna sekali aplikasi ini dan Hugging Face telah digunakan oleh lebih dari 50.000 organisasi dan bekerja sama dengan perusahaan seperti Microsoft, Amazon Web Services, dan Intel. dan ini adalah akun huggingface saya (https://huggingface.co/abduljames23)
+penggunaan huggingface biasanya kita menggunakan untuk membuat teknologi NLP dan kita juga bisa menggunakan penelitan atau pengembangan produk juga
+account = FADHILLAH
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
-Kaggle adalah situs yang memfasilitasi kolaborasi, pembelajaran, dan kompetisi dalam bidang ilmu data kemudian saya telah mendaftar akun kaggle dan adapun akun saya https://www.kaggle.com/abduljamesrodrigues dan kegunaan aplikasi atau web kaggle yaitu:
 
 1.Data: Kaggle menyediakan berbagai kumpulan data yang dapat digunakan oleh ilmuwan data.
 
 2.Kode: Kaggle memiliki banyak contoh kode yang dibagikan oleh pengguna lain.
 
-3.Komunitas: Kaggle berfungsi sebagai komunitas tempat para analis data, ilmuwan data, dan insinyur pembelajaran mesin dapat belajar, berkembang, dan terhubung. 
+3.Komunitas: di kaggle juga menyediakan forum untuk diskusi untuk membahas penelitian / karya dan segala yang terkait mengenai machine learning 
 
-4.Inspirasi: Melalui Kaggle, Anda dapat mendapatkan inspirasi dari proyek-proyek data science yang telah dikerjakan oleh orang lain.
+4.Inspirasi: dari kaggle juga kita dapat melihat referensi dari penelitian / karya orang lain juga 
 
-5.Kompetisi: Kaggle sering mengadakan kompetisi ilmu data.
+5.Kompetisi: di kaggle juga terkadang ada informasi kompetisi - kompetisi
 
 6.Kursus: Kaggle juga menyediakan kursus-kursus yang membantu pemula memahami dasar-dasar ilmu data dan pembelajaran mesin.
 
-Dan pengunaan aplikasi ini dan data data yang berada didalam aplikasi tersebut tidak di pungut biaya atau gratis,dan sangat berguna bagi orang yang mempelajari atau mendalami ilmu tentang IT.
+
+dan bahkan di kaggle juga memungkinkan bagi kita untuk mencari pekerjaan dan menaikkan karir kita melalui beragam kompetisi - kompetisi agar kita bisa menarik minat perusahaan 
+account = Fadhillah Rizqia Arfin
 
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐⭐
 
-sebelumnya MQTT, singkatan dari Message Queuing Telemetry Transport, adalah protokol pesan berbasis standar yang digunakan untuk komunikasi mesin-ke-mesin12. Protokol ini sangat ringan dan menganut prinsip pengangkutan pesan berbasis publish-subscribe. dan saya juga telah melakukanya bersama anak kelas A secara bersama sama dan sudah mendlowad aplikasi tersebut.https://mqtt.org/
+ MQTT, singkatan dari Message Queuing Telemetry Transport, biasanya protokol itu digunakan untuk projek IOT jadi di MQTT itu komponennya tidak ada server tapi broker,publisher, dan subscriber
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
@@ -323,13 +317,13 @@ sebelumnya MQTT, singkatan dari Message Queuing Telemetry Transport, adalah prot
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 
-Jurnal adalah sebuah catatan yang dibuat secara teratur dan sistematis tentang kegiatan, peristiwa, atau pemikiran yang terjadi. Jurnal dapat digunakan untuk berbagai tujuan, termasuk untuk mencatat kegiatan sehari-hari, menyebarkan ide-ide, atau mendokumentasikan hasil penelitian atau observasi.
+jurnal = catatan yang dibuat secara teratur dan sistematis tentang kegiatan, peristiwa, atau pemikiran yang terjadi
 
-Conference adalah pertemuan antara dua pihak atau lebih untuk membahas topik tertentu secara formal dan terstruktur123. Biasanya, konferensi melibatkan orang-orang yang memiliki kepentingan atau keahlian dalam bidang yang sama.dan jenis konferensi itu ada dua yaitu: konferensi pers dan konferensi video.adapun tujuan diadakanya konferensi adalah:Bertujuan untuk berbagi penelitian, temuan, dan pemikiran di antara para akademisi dan peneliti. kemudian Digunakan untuk membahas strategi bisnis, tren pasar, dan kolaborasi antara perusahaan. dan yang terakhir yaitu membahas tentang perdagangan, investasi, dan kerjasama ekonomi antara negara-negara.
+conference = yaitu semacam rapat / pertemuan untuk berunding atau bisa juga menyampaikan informasi ke khalayak umum di depan juga seperti artis/pejabat yang melakukan press conference
 
-Artikel adalah karangan berisi fakta dan opini yang dibuat untuk dipublikasikan di media cetak maupun media sosial. Teks artikel bertujuan untuk menyampaikan gagasan dilengkapi data dan fakta yang disajikan dalam bentuk tulisan.
+artikel = sebuah karya tulis yang disimpan di laman web biasanya seperti majalah atau di berita online 
 
-Grade jurnal adalah tingkatan tingkatan jurnal yang mengacu pada peringkat atau kualitas suatu jurnal ilmiah. Terdapat beberapa metode untuk menilai dan mengklasifikasikan jurnal berdasarkan kriteria tertentu.
+grade jurnal = yaitu pembagian  kelas jurnal yang didasarkan pada tingkatan yang telah ditentukan dengan Q1 - Q6
 
 
 
@@ -340,9 +334,7 @@ Grade jurnal adalah tingkatan tingkatan jurnal yang mengacu pada peringkat atau 
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
-saya telah menonton video presentasi tugas akhir informatika mahasiswi uns surakarta dan ini akun youtobe nya https://www.youtube.com/@tiastutilarasati1407
 
-![image](https://github.com/abduljames123/abduljames23/assets/144786396/d3b07ad4-d91b-4004-a396-215053101604)
 
 
 
@@ -352,13 +344,13 @@ saya telah menonton video presentasi tugas akhir informatika mahasiswi uns surak
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
-Untuk profesi terkait informatika pasti banyak sekali dan banyak juga peminatnya dan adapun beberapa contoh pekerjaan informatika:
 
-Software Engineer: Seorang software engineer mengaplikasikan prinsip-prinsip pengelolaan dan optimalisasi perangkat lunak. Mereka merancang, mengembangkan, memelihara, dan menguji perangkat lunak komputer atau perangkat lain. Pekerjaan ini memiliki prospek yang baik dan mengalami pertumbuhan hingga 17% selama 10 tahun ke depan12.
 
-IT Consultant: Seorang IT consultant bertugas menerapkan strategi teknologi informasi dalam perencanaan, pelaksanaan, dan evaluasi di perusahaan. Mereka memberikan saran tentang penggunaan teknologi informasi secara efisien untuk mencapai tujuan bisnis1.
+Software Engineer: biasanya seorang software engineer dipercayai untuk mengembangkan,menguji kelayakan software yang ada didalam suatu perusahaan 
 
-Web Developer: Web developer adalah pakar dalam pengembangan aplikasi web. Mereka menguasai HTML/XHTML, CSS, dan JavaScript. Web developer dapat bekerja penuh waktu, paruh waktu, atau sebagai freelancer1.
+IT Consultant: biasanya seorang IT Consultant dipercayai untuk menganalisis dan memecahkan suatu masalah yang ada pada sistem baik itu perangkat lunak, maupun keras
+
+Web Developer: yaitu jenis pekerjaan yang biasanya merancang/membuat suatu web seperti e-commerce dsb bahkan bisa juga mengembangkan suatu web yang sudah ada
 
 Data Analyst: Seorang data analyst menganalisis data untuk menghasilkan wawasan bisnis. Mereka mengolah data dan membuat laporan yang membantu pengambilan keputusan.
 
@@ -370,28 +362,21 @@ Pengembang Augmented Reality (AR) dan Virtual Reality (VR): Pengembang AR dan VR
 
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
-
-jadi saya telah mengeksplorasi aplikasi duolingo,duolingo aplikasi pembelajaran bahasa yang populer di seluruh dunia. Aplikasi ini dirancang untuk membantu pengguna belajar bahasa asing secara interaktif dan menyenangkan. Duolingo menyediakan metode pembelajaran yang berfokus pada permainan dan latihan, membuat proses belajar bahasa menjadi lebih menarik dan efektif.jadi banyak orang suka atau seneng menggunakan aplikasi tersebut karena sangat membantu untuk belajar suatu bahasa.(https://www.duolingo.com/placement/id)
+aplikasi duolinngo cukup terkenal akan course nya dalam pembelajaran bahasa terutama bahasa inggris dengan dikemas secara menarik yang setiap tingkatannya kebanyakan mengulang kalimat/kata agar kita bisa dengan mudah terbiasa baik dalam mendengar maupun menjawab
 
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
-tidak jauh berbeda dengan aplikasi Dulingo,HelloTalk adalah aplikasi pembelajaran bahasa yang memungkinkan pengguna untuk berkomunikasi dengan penutur asli bahasa yang ingin belajar bahasa lain. Aplikasi ini menawarkan platform berbasis sosial yang memungkinkan pengguna untuk berbicara dan berinteraksi dengan sesama pengguna yang menggunakan bahasa yang ingin dipelajari atau diajarkan.dan aplikasi ini  menekankan pembelajaran bahasa melalui interaksi sosial dan praktik langsung dengan penutur asli. Aplikasi ini dapat menjadi alat yang efektif untuk orang yang ingin meningkatkan kemampuan berbahasa mereka dengan berkomunikasi secara langsung dengan penutur asli dan belajar dari satu sama lain.jadi sangat cocok juga untuk belajar menambah wawasan tentang bahasa.
+mirip seperti aplikasi duolingo yang berguna untuk belajar dalam bahasa, namun aplikasi ini memungkinkan kita untuk belajar berintaraksi secara sosial agar kita dengan mudah terbiasa berkomunikasi dengan bahasa inggris
 
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
-setelah saya mengeksplorasi tentang lowongan pekerjaan IT banyak sekali tentang lowongan tersebut akan tetapi tetap sesuai dengan minat dan bakat kita tersendiri diri,dan gaji yang di tawwarkan oleh perusaahan juga ga main main dan gajinya pun sangat tinggi dan adapun contohnya:
-IT System Engineer - Data Center di OTO Group, Jakarta Selatan, Jakarta Raya. Gaji berkisar antara Rp 7.500.000 hingga Rp 8.000.000 per bulan. Tanggung jawab meliputi administrasi jaringan dan sistem1.
 
-Computer User Support di PT Djarum, Kudus, Jawa Tengah. Gaji berkisar antara Rp 8.000.000 hingga Rp 10.000.000 per bulan. Anda akan bertanggung jawab dalam meja bantuan dan dukungan IT1.
-
-IT Technician Jr. di Bunaken Oasis Dive Resort and Spa, Manado, Sulawesi Utara. Gaji berkisar antara Rp 4.500.000 hingga Rp 5.000.000 per bulan. Tugas meliputi administrasi jaringan dan sistem.
-saya mengambil data ini dari web:https://www.jobstreet.co.id/id/it-jobs
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
-setelah saya mengksplorasi Freelancer.com banyak sekali lowongan pekerjaan tentang IT tapi kita harus punya bakat atau keterampilan diantara pekerjaan dan tugasnya di freelancer.com
+jenis pekerjaan/freelance yang ada di sini cukup beragam baik itu full time sampai paruh waktu pun ada dan bisa secara bebas dimana saja untuk pengerjaannya seperti :
 
 1.Pengembangan Perangkat Lunak:
 
@@ -453,11 +438,11 @@ Memberikan saran tentang solusi teknologi informasi.
 Analisis kebutuhan bisnis dan memberikan rekomendasi teknologi.
 Konsultasi keamanan dan strategi TI.
 
-jadi untuk pekerjaanya tergantung dengan kemampuan masing masing.
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
-saya telah mengekplorasi web tersebut . Roadmap.sh adalah situs web yang menyediakan panduan visual atau roadmap untuk berbagai bidang teknologi dan pengembangan perangkat lunak. Berikut adalah beberapa topik yang umumnya dicakup di Roadmap.sh untuk beberapa bidang populer: 
+aplikasi roadmap biasanya memudahkan bagi kita yang ingin belajar IT dengan beragam macam profesi yang disesuaikan sesuai minat kita dan kita bisa mendapatkan jalan/ langkah apa saja agar kita bisa menjadi seorang expert di bidang yang kita inginkan 
+
 
  Pengembangan Web Front-end:
 
@@ -515,47 +500,23 @@ sebenarnya peminatan dalam situs tersebut semua tergantun pada minat kita masing
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐
 
-saya telah mengeksplorasi dan mencari cari  beberapa proek di github dan pada hari ini re tanggal 14 bulan desember  tahun 2023 project github  yang seddang ternding dan di minati banyak orang adalah chatbote seperti :
- 
- LobeChat adalah kerangka chatbot sumber terbuka dan berkinerja tinggi
-yang mendukung sistem plugin sintesis ucapan, multimodal, dan dapat diperluas (Panggilan Fungsi).
-Mendukung penerapan gratis satu klik untuk aplikasi web ChatGPT/LLM pribadi Anda.
+
 
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
- saya telah mendaftar dan membangun akun Linkedin saya karena LinkedIn adalah alat yang kuat untuk membangun dan mengembangkan karir Anda.jadi cocok untuk mencari sebuah pekerjaan,dan saya pun telah mengikuti beberapa akun yang sangat menginspirasi saya yang bertemakan informatikadan ini akun akun yang saya ikuti:
 
- 1.Linus Torvalds: beliau adalah Pencipta kernel Linux dan salah satu tokoh terkemuka dalam dunia open source. (https://www.linkedin.com/in/linustorvalds/)
-
- 2.Satya Nadella: beliau adalah  CEO Microsoft, yang memiliki latar belakang teknologi informatika. (https://www.linkedin.com/in/satyanadella/)
-
- 3.Grace Hopper: beliau adalah Pionir komputer dan penemu bahasa pemrograman COBOL. (https://www.linkedin.com/in/grace-hopper-6b873a222/)
-
- 4.Andrew Ng: beliau adalah  Ahli dalam bidang machine learning dan pendiri Coursera. (https://www.linkedin.com/in/andrewyng/)
-
- 5.Hadi Partovi: beliau adalah Pendiri Code.org, yang berfokus pada pendidikan pemrograman bagi anak-anak. (https://www.linkedin.com/in/hadip/)
-
- jadi itu beberapa akun yang saya ikuti yang kegunaannya bisa mengisnpirasi saya di dunia informatika.
 
 
 
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
-Sebelumnya GitHub adalah platform sosial yang populer di kalangan para pengembang di seluruh dunia. Banyak perekrut melihat kemampuan pengembang melalui profil GitHub mereka. Salah satu cara untuk membuat profil GitHub lebih menarik adalah dengan menambahkan README.md pada repositori Anda. jadi tidak menutup kemungkinan banyak orang yang menggunakan aplikasi GitHub ini dan agar akun GitHub kita jadi lebih menarik atau unik ada beberapa cara yang dapat di lakukan yaitu:
-
-1.Buat Repositori Baru jadi kalian membuat repositori baru dengan nama yang sama dengan nama pengguna GitHub Anda. Misalnya, jika nama pengguna Anda adalah “Gapur”, nama repositori haruslah “Gapur”.
-
-2.Edit README.md Setelah membuat repositori, klik tanda pensil di bagian ujung kanan file README.md yang sudah berisi template default (biasanya berisi “Hi There”).kemudian Mulailah mengedit konten README.md sesuai dengan preferensi Anda. Anda dapat menambahkan informasi tentang diri Anda, proyek yang sedang dikerjakan, alat yang digunakan, dan cara menghubungi Anda.Setelah selesai mengedit, klik “Commit changes” untuk menyimpan perubahan
-
-jadi cara cara di atas adalah beberapa cara untuk kita mengembangkan akun GitHub kita agar lebih jadi menarik dan unik dan ini berikut akun GitHub saya:(https://github.com/abduljames123)
+untuk saat ini saya membangun profil saya seperti foto, akun media sosial, serta background saya saat ini
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
-setelah saya mencari info info tentang workhsop atau yang lainya saya pun telah mengikuti beberapa workshop antar lain : GDSC UIN BANDUNG,BAJAK yang menerangkan tentang jaringan.
-tetapi saya belum bisa mengikuti dengan maksimal karena terkendala dengan waktu dan karna saya berada di mahad,tetapi saya akan belajar atau mengikutinya dengan sungguh sungguhb agar bisa mendapatkan ilmu yang bermanfaat.
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 
-saya telah membaca buku yang berjudul (Kode: Bahasa Tersembunyi Perangkat Keras
+
